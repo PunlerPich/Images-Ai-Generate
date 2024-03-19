@@ -10,7 +10,7 @@ const TextToImages = () => {
     "https://cdn2.imagine.art/imagine-frontend/assets/images/RowImageSlider29.webp",
     "https://pics.craiyon.com/2023-06-13/ac22eb412a7f4eeeaaad064ea9c67cdf.webp",
   ]);
-  const apiKey = "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"; // Replace with your actual OpenAI API key
+  const apiKey = ""; // Replace with your actual OpenAI API key
   const [isLoading, setIsLoading] = useState(false);
   const [loadingProgress, setLoadingProgress] = useState(0);
 
